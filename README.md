@@ -1,5 +1,6 @@
 - 👋 Olá, eu sou @EnzoMaranezi!
-- 👀 Eu tenho interesse em programação.
+- 🎮 Desenvolvedor interessado em jogos e programação
+- 💻 Linguagens: C#, C++, Java, Haskell, Prolog.
 - 🌱 Atualmente estou estudando ciência da computaçao.
 - 📫 Como me alcançar: enzo.maranezi@sou.unifal-mg.edu.br
   
